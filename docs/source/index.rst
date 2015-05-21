@@ -9,7 +9,7 @@
 .. toctree::
    :maxdepth: 2
    
-   datasheet
+   core_introduction
    power
    gpio
    uart
