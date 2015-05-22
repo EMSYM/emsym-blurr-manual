@@ -2,7 +2,7 @@
 **************
 核心板尺寸
 ===============
-.. image:: ./image/blurrcore/核心板尺寸.png
+.. image:: ./image/blurrcore/coresize.png
   	:height: 605 px
    	:width: 806 px
   	:scale: 100 %
